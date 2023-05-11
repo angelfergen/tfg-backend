@@ -1,0 +1,855 @@
+Log: 2023-03-07 14:12:58.950237 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:12:58.952335 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:12:58.952443 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:12:58.952563 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:12:58.952624 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:13:33.021636 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:13:33.025475 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:13:33.025735 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:13:33.025879 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:13:33.026016 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:13:53.006866 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:13:53.009683 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:13:53.009888 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:13:53.009984 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:13:53.010068 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:14:05.859968 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:14:05.863098 
+	 Mac Address: ee:25:61:93:dc:ce 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:14:05.863252 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:14:05.863349 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:14:05.863450 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:14:05.863543 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:16:50.343004 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:16:50.345372 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:16:50.345496 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:16:50.345564 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:16:50.345624 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:16:59.002522 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:16:59.004593 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:16:59.004696 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:16:59.004764 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:16:59.004824 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:17:17.023690 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:17:17.026836 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:17:17.026992 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:17:17.027094 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:17:17.027187 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:17:30.065155 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:17:30.067623 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:17:30.067741 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:17:30.067808 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:17:30.067868 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:18:39.409580 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:18:39.411641 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:18:39.411744 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:18:39.411866 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:18:39.411928 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:24:55.923925 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:24:55.926917 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:24:55.927067 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:24:55.927160 
+	 Mac Address: b8:76:3f:48:a3:0c 
+	 Name in network: tvc212d6ff59a7.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:24:55.927249 
+	 Mac Address: 78:f2:35:84:96:d2 
+	 Name in network: MITV.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:24:55.927333 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:26:07.136813 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:26:07.139357 
+	 Mac Address: ee:25:61:93:dc:ce 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:26:07.139469 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:26:07.139531 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:26:07.139598 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:26:07.139659 
+	 Mac Address: b8:76:3f:48:a3:0c 
+	 Name in network: tvc212d6ff59a7.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:26:07.139721 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:32:57.062520 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:32:57.066504 
+	 Mac Address: ee:25:61:93:dc:ce 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:32:57.066679 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:32:57.066782 
+	 Mac Address: f8:8f:07:42:7f:e6 
+	 Name in network: GalaxyWatchActive2-FFE5.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:32:57.066889 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:32:57.067001 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:32:57.067102 
+	 Mac Address: b8:76:3f:48:a3:0c 
+	 Name in network: tvc212d6ff59a7.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:32:57.067208 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:45:28.025537 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:45:28.027614 
+	 Mac Address: ee:25:61:93:dc:ce 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:45:28.027717 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:45:28.027833 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:45:28.027900 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:45:28.027962 
+	 Mac Address: 72:52:cb:9e:ed:4a 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:45:28.028019 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:57:55.239616 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 14:57:55.242030 
+	 Mac Address: ee:25:61:93:dc:ce 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:57:55.242146 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:57:55.242206 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:57:55.242283 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 14:57:55.242345 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:00:46.905001 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 15:00:46.907366 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:00:46.907488 
+	 Mac Address: f8:8f:07:42:7f:e6 
+	 Name in network: GalaxyWatchActive2-FFE5.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:00:46.907556 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:00:46.907622 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:00:46.907683 
+	 Mac Address: ec:0e:c4:8c:76:dd 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:00:46.907743 
+	 Mac Address: b8:76:3f:48:a3:0c 
+	 Name in network: tvc212d6ff59a7.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:00:46.907806 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:01:40.858591 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 15:01:40.861023 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:01:40.861129 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:01:40.861194 
+	 Mac Address: e8:3a:12:47:16:e5 
+	 Name in network: Galaxy-Tab-A.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:01:40.861258 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:01:40.861318 
+	 Mac Address: ec:0e:c4:8c:76:dd 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:01:40.861378 
+	 Mac Address: b8:76:3f:48:a3:0c 
+	 Name in network: tvc212d6ff59a7.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:01:40.861435 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:02:23.084310 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 15:02:23.087971 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:02:23.088245 
+	 Mac Address: f8:8f:07:42:7f:e6 
+	 Name in network: GalaxyWatchActive2-FFE5.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:02:23.088350 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:02:23.088450 
+	 Mac Address: e8:3a:12:47:16:e5 
+	 Name in network: Galaxy-Tab-A.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:02:23.088549 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:02:23.088641 
+	 Mac Address: ec:0e:c4:8c:76:dd 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:02:23.088731 
+	 Mac Address: b8:76:3f:48:a3:0c 
+	 Name in network: tvc212d6ff59a7.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:02:23.088829 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:17.643674 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 15:06:17.645957 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:17.646118 
+	 Mac Address: f8:8f:07:42:7f:e6 
+	 Name in network: GalaxyWatchActive2-FFE5.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:17.646219 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:17.646287 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:17.646348 
+	 Mac Address: b8:76:3f:48:a3:0c 
+	 Name in network: tvc212d6ff59a7.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:17.646411 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:58.676924 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 15:06:58.680390 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:58.680551 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:58.680671 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:58.680781 
+	 Mac Address: b8:76:3f:48:a3:0c 
+	 Name in network: tvc212d6ff59a7.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 15:06:58.680895 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:14:22.324364 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 16:14:22.327680 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:14:22.327941 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:14:22.328045 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:14:22.328139 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:17:45.628858 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 16:17:45.631455 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:17:45.631586 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:17:45.631655 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:17:45.631715 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:18:14.256534 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 16:18:14.260057 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:18:14.260210 
+	 Mac Address: ea:fd:36:8c:10:30 
+	 Name in network: Galaxy-S9-de-NURIA-ISABEL.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:18:14.260310 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:18:14.260411 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:18:14.260504 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:18:57.610587 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 16:18:57.614072 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:18:57.614243 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:18:57.614356 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:18:57.614459 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:19:09.799089 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 16:19:09.801552 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:19:09.801667 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:19:09.801733 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:19:09.801793 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:32:58.696351 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 16:32:58.700376 
+	 Mac Address: ee:25:61:93:dc:ce 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:32:58.700543 
+	 Mac Address: f0:72:ea:e5:e5:7a 
+	 Name in network: Chromecast.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:32:58.700658 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:32:58.700763 
+	 Mac Address: ea:fd:36:8c:10:30 
+	 Name in network: Galaxy-S9-de-NURIA-ISABEL.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:32:58.700868 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:32:58.700978 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:32:58.701078 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:34:13.083994 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 16:34:13.086205 
+	 Mac Address: 4e:a7:39:cd:10:d2 
+	 Name in network: GETINO.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:34:13.086306 
+	 Mac Address: f0:72:ea:e5:e5:7a 
+	 Name in network: Chromecast.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:34:13.086442 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:34:13.086524 
+	 Mac Address: ea:fd:36:8c:10:30 
+	 Name in network: Galaxy-S9-de-NURIA-ISABEL.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:34:13.086587 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:34:13.086661 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:34:13.086720 
+	 Mac Address: 5c:0c:e6:7f:6e:1e 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:34:13.086799 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:37:35.746987 
+	 Mac Address: 94:6a:b0:5c:3b:29 
+	 Name in network: liveboxfibra 
+	 Given name: Router of Prudencio  
+	 Allowed on network: True
+Log: 2023-03-07 16:37:35.749114 
+	 Mac Address: 4e:a7:39:cd:10:d2 
+	 Name in network: GETINO.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:37:35.749216 
+	 Mac Address: f0:72:ea:e5:e5:7a 
+	 Name in network: Chromecast.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:37:35.749294 
+	 Mac Address: 34:25:be:f1:94:27 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:37:35.749360 
+	 Mac Address: f8:8f:07:42:7f:e6 
+	 Name in network: GalaxyWatchActive2-FFE5.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:37:35.749422 
+	 Mac Address: ea:fd:36:8c:10:30 
+	 Name in network: Galaxy-S9-de-NURIA-ISABEL.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:37:35.749482 
+	 Mac Address: None 
+	 Name in network: raspberrypi.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:37:35.749545 
+	 Mac Address: 18:60:24:33:42:fa 
+	 Name in network: HP3342FA.home 
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:37:35.749603 
+	 Mac Address: 5c:0c:e6:7f:6e:1e 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None
+Log: 2023-03-07 16:37:35.749661 
+	 Mac Address: a0:9f:10:1a:bd:fc 
+	 Name in network:  
+	 Given name: None 
+	 Allowed on network: None

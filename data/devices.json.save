@@ -1,0 +1,10 @@
+	{
+    "00:00:00:00:00:00":
+    {
+      "type": "Device",
+      "owner": "John Appleseed",
+      "location": null,
+      "allowed": true
+    }
+}
+

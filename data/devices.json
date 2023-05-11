@@ -1,0 +1,26 @@
+{
+    "94:6a:b0:5c:3b:29": {
+        "type": "Router",
+        "owner": "Pruden",
+        "location": "casa",
+        "allowed": "True"
+    },
+    "18:60:24:33:42:fa": {
+        "type": "Impresora",
+        "owner": "Angel",
+        "location": "casa",
+        "allowed": "True"
+    },
+    "00:00:00:00": {
+        "type": "blabla",
+        "owner": "rosalia",
+        "location": "bellodrama",
+        "allowed": "ok"
+    },
+    "e8:3a:12:47:16:e5": {
+        "type": "tablet",
+        "owner": "nuria",
+        "location": "casita",
+        "allowed": "true"
+    }
+}
