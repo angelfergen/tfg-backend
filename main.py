@@ -16,7 +16,7 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 '''
-
+import subprocess
 from getmac import get_mac_address
 from prettytable import PrettyTable
 
@@ -24,7 +24,8 @@ from datetime import date
 
 from device import Device
 from network import Network
-from json_to_log4 import procesar_logs
+from vendedor import Vendedor
+#from json_to_log4 import procesar_logs
 
 import json
 import os
@@ -178,15 +179,29 @@ def create_ari() -> List[dict]:
     for device in devices:
         device['mac'] = get_mac_address(ip=device['addresses']['ipv4'])
         print(device['mac'])
+        #Esto lo hago ya que me está cogiendo la dirección mac de la raspi como none
+	#Entonces lo que hago es ponerle a piñon la dir mac por ethernet
+        if device['addresses']['ipv4'] == "192.168.1.27":
+            device['mac'] = "b8:27:eb:98:a0:60"
+         
+        #print("--------------VENDEDOR------")
+        #print("oui",device['mac'])
+        output= subprocess.check_output(["oui", device['mac']]).decode('utf-8').strip()
+        #-----------------
+        output = output.replace('，', ',')  # Reemplazar el carácter problemático
+        #Esa linea la he tenido que poner por este vendedor, que me estaba pillando una coma que no es la normal
+        #SHENZHEN BILIAN ELECTRONIC CO.，LTD
+	#NO.268? Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
+	#shenzhen guangdong 518000
+	#China
+        #--------------------
+        vendedor = output.splitlines()[0]
+        #print(vendedor)
+        #subprocess.call(["oui",device['mac']], shell=True)
+        #print(v.get_vendedor(device['mac']))
+        #print("----------------------------")
+        device['vendor'] = vendedor
 
-        #YA HE CONSEGUIDO QUE ME GENERE UN LOG DE ESTO
-        #jamones = Device.to_json(device['mac'])
-        #print(jamones)
-
-        #mac = get_mac_address(ip=device['addresses']['ipv4'])
-        #print(jamones)
-        #jamones = Device.to_json(device)
-        #print(jamones)
 #    print("ARRRIIIIIIIIIIII")
 #        print(devices)
 #    devices_json = jsonpickle.encode(devices)

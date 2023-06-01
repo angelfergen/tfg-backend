@@ -1,7 +1,7 @@
 import subprocess
 import time
 
-intervalo = 300 
+intervalo = 60
 #Esto lo que hace es que lo voy a ajecutar cada 300 segundos
 
 while True:
