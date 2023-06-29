@@ -30,5 +30,5 @@ while True:
             json.dump(objects, f, indent=4)
 
         # Y ahora lo que hago es juntar todos los ficheros de las horas en uno diario
-        with open("data/{}.log".format( date.today()), 'w') as f:
-            json.dump(dia, f, indent=4)
+    with open("data/{}.log".format( date.today()), 'w') as f:
+        json.dump(dia, f, indent=4)
