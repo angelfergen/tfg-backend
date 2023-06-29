@@ -14,6 +14,9 @@ def obtener_dispositivos_conectados(network):
 
     for device in devices:
         device['mac'] = get_mac_address(ip=device['addresses']['ipv4'])
+        if device['addresses']['ipv4'] == "192.168.1.27":
+            device['mac'] = "b8:27:eb:98:a0:60"
+
     print(devices)
     return devices
 
